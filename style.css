@@ -1,5 +1,14 @@
 body{
     font-family: Arial, Helvetica, sans-serif;
 
+}
+header{
+    background-color: rgb(56, 95, 95);
+    color: aliceblue;
+    text-align: center;
+    padding: 20px;
+    font-size: larger;
+
+
 
 }
